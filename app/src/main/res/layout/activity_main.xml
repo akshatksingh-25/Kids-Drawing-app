@@ -70,7 +70,7 @@
             android:layout_width="25dp"
             android:layout_height="25dp"
             android:layout_margin="2dp"
-            android:background="#0AA30A"
+            android:background="#00BD00"
             android:onClick="paintClicked"
             android:src="@drawable/pallet_normal"
             android:tag="@color/green" />
